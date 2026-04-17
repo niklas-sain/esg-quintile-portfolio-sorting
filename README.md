@@ -4,7 +4,7 @@
 > *Beyond Ratings: Narratives and Numbers of ESG Data in Sustainable Investing*
 > at Sheffield Hallam University.
 
-**Live dashboard:** [https://<your-username>.github.io/<repo-name>/](https://example.com)
+**Live dashboard:** [[https://<your-username>.github.io/<repo-name>/](https://example.com)](https://niklas-sain.github.io/esg-quintile-portfolio-sorting/)
 (update after GitHub Pages deployment)
 
 ---
